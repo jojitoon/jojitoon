@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Unniq
+- 🔭 I’m currently working on Uniiq
 - 🌱 I’m currently learning unreal engine
 - 👯 I’m looking to collaborate on building frameworks or AI model
 
