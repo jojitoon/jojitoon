@@ -32,11 +32,5 @@
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-  <img height="185em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojitoon&&show_icons=true&locale=en&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
-&nbsp;
-<img height="185em" align="center" src="https://github-readme-stats.vercel.app/api?username=jojitoon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jojitoon's GitHub Stats" />
-
- <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=jojitoon&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&bg_color=1d1f21" />
 
